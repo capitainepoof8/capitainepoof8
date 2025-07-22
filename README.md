@@ -1,4 +1,4 @@
-# 👋 Salut, je suis @capitainepoof8 (alias Soro Nontié Emmanuel)
+# 👋 Salut, je suis @capitainepoof8 ( Soro Nontie Emmanuel)
 
 🎓 Je suis étudiant en Business Administration, spécialité Systèmes d’Information, à l’IUGB.  
 💡 Je m'intéresse au développement web (Next.js, Flutter), à l’IA, au design UI/UX et aux projets tech innovants.  
