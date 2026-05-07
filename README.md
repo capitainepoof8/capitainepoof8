@@ -4,6 +4,8 @@
 ### Business Information Systems · Web · Mobile · AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wb%20Creative%20Lab-BF5111?style=for-the-badge&logo=firefox&logoColor=white)](https://capitainepoof8.github.io/wb-creative-lab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Soro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-soro-459468284/)
+[![Instagram](https://img.shields.io/badge/Instagram-manuelsoro27-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manuelsoro27)
 [![Email](https://img.shields.io/badge/Email-manuelsoro205%40gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelsoro205@gmail.com)
 
 </div>
