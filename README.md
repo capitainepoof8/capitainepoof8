@@ -14,7 +14,8 @@
 
 ### About me
 
-Student in **Business Administration — Information Systems** at IUGB.  
+Student in **Business Administration — Information Systems** at IUGB
+Student in **l-miage** at cesag bow .  
 I build web apps, mobile apps, and explore AI tools and UI/UX design.
 
 ---
